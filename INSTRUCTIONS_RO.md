@@ -20,9 +20,19 @@ Un ghid vizual pas cu pas pentru instalarea Docker Desktop și n8n, și crearea 
 
 Accesează [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop) și descarcă versiunea pentru sistemul tău de operare.
 
-![Instalare Docker Desktop](Images/01.docker_desktop_install.png)
+![Instalare Docker Desktop](Images/Images/00.download_docker.png) 
+
+Apoi alege versiunea aferenta sistemului tau de operare
+
+![Instalare Docker Desktop](Images/Images/00.download_docker_specific.png) 
 
 **Figura 1**: Procesul de instalare Docker Desktop. Urmează pașii din wizard pentru a finaliza instalarea.
+
+
+### Pasul 1.2: Exploreaza interfata
+
+![Interfata Docker Desktop](Images/Images/01.docker_desktop_install.png) 
+
 
 ---
 
