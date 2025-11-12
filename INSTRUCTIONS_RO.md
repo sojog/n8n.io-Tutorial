@@ -196,6 +196,20 @@ Deschide browser-ul și navighează la `http://localhost:5678`
 
 **Figura 20**: Configurează modelul AI (OpenAI, Anthropic Claude, etc.) și setările acestuia - temperatura, max tokens, system prompt.
 
+
+### Pasul 5.4: Configurează Ollama
+
+![Model AI](Images/22.ollama_model.png)
+
+**Figura 21**: Alege ollama.
+
+
+### Pasul 5.3: Trebuie sa setezi linkul catre ollama
+
+![Model AI](Images/23.ollama_point.png)
+
+**Figura 22**: Alege ollama cu setarea http://host.docker.internal:11434.
+
 ---
 
 ## 🎯 Exemple Rapide de Workflow-uri
