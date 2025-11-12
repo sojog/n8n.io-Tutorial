@@ -363,3 +363,4 @@ docker-compose exec postgres pg_dump -U n8n n8n > ./backups/database.sql
 
 *Self-hosted. Open-source. Under your control.*
 
+
